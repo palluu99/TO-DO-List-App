@@ -28,8 +28,9 @@ This app is built using **HTML**, **CSS**, and **JavaScript**, and lets users:
 
 ---
 
-## 📁 **Project Structure**
+## 📁 Project Structure
 
+```text
 to-do-list-app/
 │
 ├── index.html     # 💻 Main HTML file
@@ -37,6 +38,7 @@ to-do-list-app/
 ├── script.js      # ⚙️ JavaScript functionality
 ├── README.md      # 📄 Project documentation
 └── screenshot.png # 📸 App screenshot
+
 
 ## 🛠️ **How It Works**
 
